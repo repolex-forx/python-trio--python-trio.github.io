@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-trio",
+  "repo": "python-trio.github.io",
+  "versions": [
+    {
+      "commit": "25fecb307ae600b8be7a1a19623099d2abe59c4e",
+      "parsed_at": "2026-10-11T08:09:25.322124+00:00",
+      "filetree": "filetree/25fecb307ae600b8be7a1a19623099d2abe59c4e.nq.gz",
+      "blobs": [
+        "blob/473c65220c241bf621a1e00a468413dbe4b77b68.nq.gz",
+        "blob/fa5a12ed2a6a690b1c4e15837b5c788a0513b314.nq.gz",
+        "blob/8dd7539e4b6bfedb81e0f142963f28aaec5716cb.nq.gz",
+        "blob/231d5d0d5aa260299c1a7a64c7cb992e52279673.nq.gz",
+        "blob/998a3357e8c9f6b7b50f3a7ab5670a53b8ced5da.nq.gz",
+        "blob/0e5c5f8047718f2c021fbf24be10ea4566fde0aa.nq.gz",
+        "blob/26bcb4c9dcd209119f4c82e61fb8381cbf325332.nq.gz",
+        "blob/6441e08cb34e5593952ae5b8f5f5552598f4d9c5.nq.gz",
+        "blob/00e77bd79be44872c0b29256b03799c2fb00c10d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
